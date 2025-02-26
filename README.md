@@ -86,7 +86,7 @@ By achieving these goals, the company can **proactively address churn**, increas
 
 # Project Directory
 
-- **Dataset/**
+- **Dataset**
   - `E Commerce Dataset.xlsx` : Raw dataset.
 - **Tableau Dashboard**
   - [`E Commerce Dashboard`](https://public.tableau.com/app/profile/garnet.ezra/viz/FinalProjectEpsilonGroup/Story1) : Interactive Tableau dashboard for visualizing the E-Commerce insights.
