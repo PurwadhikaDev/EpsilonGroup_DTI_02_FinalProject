@@ -94,5 +94,5 @@ By achieving these goals, the company can **proactively address churn**, increas
   - `Ecommerce-customers-churn-clasification-Model.pkl` : Exported machine learning workflow model, including data preprocessing, feature engineering, oversampling, and prediction using the XGBoost model.
 - **Notebook**
   - `Data Analysis.ipynb` : Data Analysis Jupyter Notebook.
-  - `modelling - f1.ipynb` : Modelling Jupyter Notebook
+  - `epsilon_modelling - f1.ipynb` : Modelling Jupyter Notebook
 
