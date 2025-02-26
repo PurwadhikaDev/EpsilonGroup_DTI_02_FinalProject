@@ -90,9 +90,9 @@ By achieving these goals, the company can **proactively address churn**, increas
   - `E Commerce Dataset.xlsx` : Raw dataset.
 - **Tableau Dashboard**
   - [`E Commerce Dashboard`](https://public.tableau.com/app/profile/garnet.ezra/viz/FinalProjectEpsilonGroup/Story1) : Interactive Tableau dashboard for visualizing the E-Commerce insights.
-- **Models/**
+- **Model**
   - `Ecommerce-customers-churn-clasification-Model.pkl` : Exported machine learning workflow model, including data preprocessing, feature engineering, oversampling, and prediction using the XGBoost model.
-- **Notebook/**
+- **Notebook**
   - `Data Analysis.ipynb` : Data Analysis Jupyter Notebook.
   - `modelling - f1.ipynb` : Modelling Jupyter Notebook
 
